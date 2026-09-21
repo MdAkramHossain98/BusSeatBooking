@@ -1,4 +1,4 @@
-# BusBooking
+# BusSeatBooking
 
 A SwiftUI iOS app for choosing and booking bus seats. Passengers see a seat map of the bus, tap the seats they want, see the total price update, and book. Availability refreshes live, so seats taken by other passengers are marked as booked while you're still choosing.
 
